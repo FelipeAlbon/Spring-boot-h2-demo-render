@@ -1,0 +1,5 @@
+com\cersocode\demo_docker_render\service\StudentService.class
+com\cersocode\demo_docker_render\entity\Student.class
+com\cersocode\demo_docker_render\repository\StudentRepository.class
+com\cersocode\demo_docker_render\controller\StudentController.class
+com\cersocode\demo_docker_render\DemoApplication.class
